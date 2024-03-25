@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956449049141",
+    "project_id": "flutterfireauthen",
+    "storage_bucket": "flutterfireauthen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956449049141:android:3d0c09f299241caa59bf7c",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire_authen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kMcEbYHxoSgORlSet-iK0uw9CG9gBJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
